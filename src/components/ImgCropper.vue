@@ -130,7 +130,7 @@ export default {
   },
   data() {
     return {
-      img1: require("../assets/2.jpg"),
+      img1: require("../assets/3.jpg"),
       // img2: require("../assets/2.jpg"),
       // img3: require("../assets/3.jpg"),
 
